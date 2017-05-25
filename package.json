@@ -1,0 +1,15 @@
+{
+  "name": "get-all-input-names-from-page",
+  "version": "1.0.0",
+  "description": "Get all input field name attributes from a page",
+  "main": "getallinputs.js",
+  "dependencies": {
+    "xmldom": "^0.1.27"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Singh",
+  "license": "ISC"
+}
