@@ -1,7 +1,7 @@
 {
-  "name": "get-all-input-names-from-page",
-  "version": "1.0.0",
-  "description": "Get all input field name attributes from a page",
+  "name": "get-all-inputs",
+  "version": "0.9.10",
+  "description": "Gets all input field names from a page",
   "main": "getallinputs.js",
   "dependencies": {
     "xmldom": "^0.1.27"
